@@ -88,6 +88,26 @@ Current Drive Connectors. Left to right: 3.5" SATA, 2.5" SATA, and M.2 NVMe
 ![Older Drive Connectors](/img/reviews/hard-drives/legacy.jpg)
 Some Legacy Drive Connectors: Left to right: IDE PATA, M.2 SATA
 
+<div class="col-md-12 col-sm-12 portfolio-item">
+  <a class="portfolio-link" href="/review/hard-drives">
+    <img class="img-fluid" src="/img/reviews/hard-drives/connectors.jpg" alt="Current Drive Connectors">
+  </a>
+  <div class="portfolio-caption">
+    <h4>Current Drive Connectors. Left to right: 3.5" SATA, 2.5" SATA, and M.2 NVMe</h4>
+    <p class="text-muted"></p>
+  </div>
+</div>
+
+<div class="col-md-12 col-sm-12 portfolio-item">
+  <a class="portfolio-link" href="/review/hard-drives">
+    <img class="img-fluid" src="/img/reviews/hard-drives/legacy.jpg" alt="Older Drive Connectors">
+  </a>
+  <div class="portfolio-caption">
+    <h4>Some Legacy Drive Connectors: Left to right: IDE PATA, M.2 SATA</h4>
+    <p class="text-muted"></p>
+  </div>
+</div>
+
 ## Guide to checking your current drive use:
 - Windows
   - Open up "This PC" and each drive shows the space used and the total space on the drive.
@@ -96,7 +116,6 @@ Some Legacy Drive Connectors: Left to right: IDE PATA, M.2 SATA
 - Linux
   - Open "Other Locations" in the file browser, works on many distros -or-
   - Open a terminal and use the command $*df -hx tmpfs*
-## 
 
 {% endcapture %}
 
