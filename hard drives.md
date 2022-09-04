@@ -66,8 +66,7 @@ HDDs advertise the speed that the disks spin (7200rpm, 5400rpm, etc.), for disks
 At Good But Cheap, we’re not above using bargain-brands, but hard drives are an item where it makes sense to stick to known brands. It’s easy to build a drive out of inferior parts and undercut on price, but those parts won’t last as long or perform as well. Stick with top brands like Wester Digital, Seagate, Samsung, Toshiba, and Crucial. The small premium is worth the increased reliability for your data.
 {% endcapture %}
 
-{% capture recommend %}
-Recommendation:
+{% capture recommendation %}
 
 ## Some Good But Cheap Choices
 |Model|Form Factor|Capacity|Link|Price|
