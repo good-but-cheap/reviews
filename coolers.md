@@ -62,12 +62,12 @@ Lots of extra features are available. The decision comes down to personal prefer
 
 | Model | |
 |:--|:--|
-| Visual Studio Code | [https://code.visualstudio.com/](https://code.visualstudio.com/) | 
 | Linux | [https://www.kernel.org/](https://www.kernel.org/) |
 | Ubuntu | [https://ubuntu.com/](https://ubuntu.com/) |
-| Pop_OS! | [https://pop.system76.com/](https://pop.system76.com/) |
-| Firefox | [https://www.mozilla.org/firefox/](https://www.mozilla.org/firefox/new/) |
-| JavaScript | [https://www.ecma-international.org/](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/) |
-| Cascading Style Sheets | [https://www.w3.org/TR/CSS/](https://www.w3.org/TR/CSS/) |
+
+| Model | Size | Insulation | Link | Price | 
+|:--|:--|:--|:--|:--|
+| Linux | [https://www.kernel.org/](https://www.kernel.org/) |  |  |  |
+| Ubuntu | [https://ubuntu.com/](https://ubuntu.com/) |  |  |  |
 
 {% include reviewtemplate.html %}
