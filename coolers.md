@@ -60,4 +60,14 @@ Lots of extra features are available. The decision comes down to personal prefer
 | Coleman 28 Can Backpack Soft Cooler | Small (28 Can) | 1 day | [Amazon](https://www.amazon.com/Coleman-Backpack-Leak-Proof-Tailgating-Activities/dp/B00J0S019S/) | $35 |
 
 
+| Model | |
+|:--|:--|
+| Visual Studio Code | [https://code.visualstudio.com/](https://code.visualstudio.com/) | 
+| Linux | [https://www.kernel.org/](https://www.kernel.org/) |
+| Ubuntu | [https://ubuntu.com/](https://ubuntu.com/) |
+| Pop_OS! | [https://pop.system76.com/](https://pop.system76.com/) |
+| Firefox | [https://www.mozilla.org/firefox/](https://www.mozilla.org/firefox/new/) |
+| JavaScript | [https://www.ecma-international.org/](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/) |
+| Cascading Style Sheets | [https://www.w3.org/TR/CSS/](https://www.w3.org/TR/CSS/) |
+
 {% include reviewtemplate.html %}
