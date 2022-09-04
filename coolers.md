@@ -67,6 +67,7 @@ Lots of extra features are available. The decision comes down to personal prefer
 
 | Model | Size | Insulation | Link | Price | 
 |:--|:--|:--|:--|:--|
+| Coleman 54 Quart Steel Belted Cooler | Medium (54 Quart) | 4 day | [Amazon](https://www.amazon.com/Coleman-3000000112-54-Quart-Steel-Belted-Cooler/dp/B0029UOYCY/) | $160 |
 | Linux | [https://www.kernel.org/](https://www.kernel.org/) |  |  |  |
 | Ubuntu | [https://ubuntu.com/](https://ubuntu.com/) |  |  |  |
 
