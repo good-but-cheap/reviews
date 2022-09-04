@@ -41,17 +41,6 @@ Lots of extra features are available. The decision comes down to personal prefer
 - "Bear Proof" rating
 - Material: Metal, Plastic, Roto-molded plastic, soft-sided
 
-
-| Software | |
-|:--|:--|
-| Visual Studio Code | [https://code.visualstudio.com/](https://code.visualstudio.com/) | 
-| Linux | [https://www.kernel.org/](https://www.kernel.org/) |
-| Ubuntu | [https://ubuntu.com/](https://ubuntu.com/) |
-| Pop_OS! | [https://pop.system76.com/](https://pop.system76.com/) |
-| Firefox | [https://www.mozilla.org/firefox/](https://www.mozilla.org/firefox/new/) |
-| JavaScript | [https://www.ecma-international.org/](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/) |
-| Cascading Style Sheets | [https://www.w3.org/TR/CSS/](https://www.w3.org/TR/CSS/) |
-
 ## Some Good But Cheap Choices
 
 | Model | Size | Insulation | Link | Price |
@@ -60,16 +49,5 @@ Lots of extra features are available. The decision comes down to personal prefer
 | Pure Outdoor Emperor 50 Cooler | Medium (50 liter) |5 day | [Monoprice](https://www.monoprice.com/product?p_id=15639)| $150 |
 | Coleman 28 Can Backpack Soft Cooler | Small (28 Can) | 1 day | [Amazon](https://www.amazon.com/Coleman-Backpack-Leak-Proof-Tailgating-Activities/dp/B00J0S019S/) | $35 |
 
-
-| Model | |
-|:--|:--|
-| Linux | [https://www.kernel.org/](https://www.kernel.org/) |
-| Ubuntu | [https://ubuntu.com/](https://ubuntu.com/) |
-
-| Model | Size | Insulation | Link | Price | 
-|:--|:--|:--|:--|:--|
-| Coleman 54 Quart Steel Belted Cooler | Medium (54 Quart) | 4 day | [Amazon](https://www.amazon.com/Coleman-3000000112-54-Quart-Steel-Belted-Cooler/dp/B0029UOYCY/) | $160 |
-| Pure Outdoor Emperor 50 Cooler | Medium (50 liter) |5 day | [Monoprice](https://www.monoprice.com/product?p_id=15639)| $150 |
-| Coleman 28 Can Backpack Soft Cooler | Small (28 Can) | 1 day | [Amazon](https://www.amazon.com/Coleman-Backpack-Leak-Proof-Tailgating-Activities/dp/B00J0S019S/) | $35 |
 
 {% include reviewtemplate.html %}
