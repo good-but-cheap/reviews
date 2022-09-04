@@ -41,6 +41,17 @@ Lots of extra features are available. The decision comes down to personal prefer
 - "Bear Proof" rating
 - Material: Metal, Plastic, Roto-molded plastic, soft-sided
 
+
+| Software | |
+|:--|:--|
+| Visual Studio Code | [https://code.visualstudio.com/](https://code.visualstudio.com/) | 
+| Linux | [https://www.kernel.org/](https://www.kernel.org/) |
+| Ubuntu | [https://ubuntu.com/](https://ubuntu.com/) |
+| Pop_OS! | [https://pop.system76.com/](https://pop.system76.com/) |
+| Firefox | [https://www.mozilla.org/firefox/](https://www.mozilla.org/firefox/new/) |
+| JavaScript | [https://www.ecma-international.org/](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/) |
+| Cascading Style Sheets | [https://www.w3.org/TR/CSS/](https://www.w3.org/TR/CSS/) |
+
 ## Some Good But Cheap Choices
 | Model | Size | Insulation | Link | Price |
 | --- | --- | --- | --- | --- |
