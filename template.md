@@ -9,31 +9,17 @@ related:
     - hard-drives
 ---
 
-{% capture considerations %}
-
+## Considerations:
 - one
 - two
 
-{% endcapture %}
-
-{% capture know %}
-
-
-
-{% endcapture %}
-
-{% capture recommendation %}
+## What you need to know:
 
 ## Some Good But Cheap Choices
 | Model | Form Factor | Capacity | Link | Price |
 |---|---|---|---|---|
 |  |  |  |  |  |
 
-{% endcapture %}
-
-{% capture more %}
-
-
-{% endcapture %}
+## Where to go for more:
 
 {% include reviewtemplate.html %}

@@ -1,23 +1,21 @@
 ---
 layout: review
-title: template
+title: coolers
 picture: /img/reviews/cooler.png
-updated: August 2022
+updated: September 2022
 related:
     - USB-C-Laptop-Docks
     - cooler
     - hard-drives
 ---
 
-{% capture considerations %}
+## Considerations:
 
 - Size
 - Insulation
 - Convenience Features (handles, wheels, bottle openers, etc.)
 
-{% endcapture %}
-
-{% capture know %}
+## What you need to know:
 
 ### Size
 Cooler sizes are measured *inconsistently*, you see the size measured in liters, gallons, quarts, or cans. As a rough guide:
@@ -43,10 +41,6 @@ Lots of extra features are available. The decision comes down to personal prefer
 - "Bear Proof" rating
 - Material: Metal, Plastic, Roto-molded plastic, soft-sided
 
-{% endcapture %}
-
-{% capture recommendation %}
-
 ## Some Good But Cheap Choices
 | Model | Size | Insulation | Link | Price |
 |---|---|---|---|---|
@@ -54,12 +48,5 @@ Lots of extra features are available. The decision comes down to personal prefer
 | Pure Outdoor Emperor 50 Cooler | Medium (50 liter) |5 day | [Monoprice](https://www.monoprice.com/product?p_id=15639)| $150 |
 | Coleman 28 Can Backpack Soft Cooler | Small (28 Can) | 1 day | [Amazon](https://www.amazon.com/Coleman-Backpack-Leak-Proof-Tailgating-Activities/dp/B00J0S019S/) | $35 |
 
-
-{% endcapture %}
-
-{% capture more %}
-
-
-{% endcapture %}
 
 {% include reviewtemplate.html %}

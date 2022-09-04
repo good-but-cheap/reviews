@@ -8,13 +8,12 @@ related:
     - cooler
 ---
 
-{% capture considerations %}
+## Considerations:
 - Form factor
 - Capacity
 - Speed
-{% endcapture %}
 
-{% capture know %}
+## What you need to know:
 
 ### Form Factor
 Hard drives come in a few different form factors, the first thing you need to know is which kind you need.
@@ -74,9 +73,6 @@ M.2 NVMe is a faster interface than SATA
 HDDs advertise the speed that the disks spin (7200rpm, 5400rpm, etc.), for disks of the same size (and with the same number of platters) these numbers are comparable, but a bigger disk will transfer data faster at a given spin rate, e.g. a 6TB drive at 5400rpm transfers data slightly faster than a 4TB drive at 7200rpm.
 
 At Good But Cheap, we’re not above using bargain-brands, but hard drives are an item where it makes sense to stick to known brands. It’s easy to build a drive out of inferior parts and undercut on price, but those parts won’t last as long or perform as well. Stick with top brands like Wester Digital, Seagate, Samsung, Toshiba, and Crucial. The small premium is worth the increased reliability for your data.
-{% endcapture %}
-
-{% capture recommendation %}
 
 ## Some Good But Cheap Choices
 | Model | Form Factor | Capacity | Link | Price |
@@ -85,9 +81,8 @@ At Good But Cheap, we’re not above using bargain-brands, but hard drives are a
 | PNY CS900 | 2.5” SATA SSD | 1TB | [Amazon](https://www.amazon.com/dp/B07Y5VDNT9) | $63 |
 | Intel 660p | M.2 NVMe | 1TB | [Amazon](https://www.amazon.com/dp/B07GCL6BR4) | $70 |
 
-{% endcapture %}
+## Where to go for more:
 
-{% capture more %}
 [PCPartPicker](https://pcpartpicker.com/products/internal-hard-drive/#sort=ppgb) has an excellent resource for finding hard drives. Sort the page by price per gigabyte, and then select filters for the type of drive you need.
 Prices can change frequently based on supply and demand, and new releases. Though we list some good options here and update them often, a live tool is the best way to find a cheap drive that meets your needs.
 
