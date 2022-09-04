@@ -17,15 +17,25 @@ related:
 {% capture know %}
 
 ### Form Factor
-Hard drives come in a few different form factors, the first thing you need to know is [which kind you need](#idform).
+Hard drives come in a few different form factors, the first thing you need to know is which kind you need.
 - The most common today are:
   - 2.5" or 3.5" SATA
   - M.2 NVMe
-- For a computer that's a little older, it could also be:
+- For a computer that's a [little older](#id), it could also be:
   - mSATA (2013-2018, approx)
   - IDE (< 2000)
 - For servers:
   - SAS
+
+<div class="col-md-12 col-sm-12 portfolio-item">
+  <a class="portfolio-link" href="/review/hard-drives">
+    <img class="img-fluid" src="/img/reviews/hard-drives/connectors.jpg" alt="Current Drive Connectors">
+  </a>
+  <div class="portfolio-caption">
+    <strong>Current Drive Connectors. Left to right: 3.5" SATA, 2.5" SATA, and M.2 NVMe</strong>
+    <p class="text-muted"></p>
+  </div>
+</div>
 
 SATA drives come in two different sizes. 2.5" are common in laptops, and can also be used in desktops. 3.5“ drives are for desktops only. Occasionally laptops will have a constraint on the thickness of a SATA drive, but this is less common on recent drives and laptops.
 
@@ -69,29 +79,21 @@ At Good But Cheap, we’re not above using bargain-brands, but hard drives are a
 {% capture recommendation %}
 
 ## Some Good But Cheap Choices
-|Model|Form Factor|Capacity|Link|Price|
+| Model | Form Factor | Capacity | Link | Price |
 |---|---|---|---|---|
-|Seagate Barracuda Compute|3.5” SATA HDD|4TB|[Amazon](https://www.amazon.com/dp/B07D9C7SQH)|$68|
-|PNY CS900|2.5” SATA SSD|1TB|[Amazon](https://www.amazon.com/dp/B07Y5VDNT9)|$63|
-|Intel 660p|M.2 NVMe|1TB|[Amazon](https://www.amazon.com/dp/B07GCL6BR4)|$70|
+| Seagate Barracuda Compute | 3.5” SATA HDD | 4TB | [Amazon](https://www.amazon.com/dp/B07D9C7SQH) | $68 |
+| PNY CS900 | 2.5” SATA SSD | 1TB | [Amazon](https://www.amazon.com/dp/B07Y5VDNT9) | $63 |
+| Intel 660p | M.2 NVMe | 1TB | [Amazon](https://www.amazon.com/dp/B07GCL6BR4) | $70 |
+
 {% endcapture %}
 
 {% capture more %}
 [PCPartPicker](https://pcpartpicker.com/products/internal-hard-drive/#sort=ppgb) has an excellent resource for finding hard drives. Sort the page by price per gigabyte, and then select filters for the type of drive you need.
 Prices can change frequently based on supply and demand, and new releases. Though we list some good options here and update them often, a live tool is the best way to find a cheap drive that meets your needs.
 
-<a name="idform"></a>
-## Guide to identifying the Form Factor of your drive:
-<div class="col-md-12 col-sm-12 portfolio-item">
-  <a class="portfolio-link" href="/review/hard-drives">
-    <img class="img-fluid" src="/img/reviews/hard-drives/connectors.jpg" alt="Current Drive Connectors">
-  </a>
-  <div class="portfolio-caption">
-    <strong>Current Drive Connectors. Left to right: 3.5" SATA, 2.5" SATA, and M.2 NVMe</strong>
-    <p class="text-muted"></p>
-  </div>
-</div>
+<a name="idolder"></a>
 
+### Guide to identifying some older drive form factors:
 <div class="col-md-12 col-sm-12 portfolio-item">
   <a class="portfolio-link" href="/review/hard-drives">
     <img class="img-fluid" src="/img/reviews/hard-drives/legacy.jpg" alt="Older Drive Connectors">
@@ -103,7 +105,8 @@ Prices can change frequently based on supply and demand, and new releases. Thoug
 </div>
 
 <a name="idusage"></a>
-## Guide to checking your current drive use:
+
+### Guide to checking your current drive use:
 - Windows
   - Open up "This PC" and each drive shows the space used and the total space on the drive.
 - Mac
