@@ -54,7 +54,7 @@ Lots of extra features are available. The decision comes down to personal prefer
 
 ## Some Good But Cheap Choices
 | Model | Size | Insulation | Link | Price |
-|:---|:---|:---|:---|:---|
+|:--|:--|:--|:--|:--|
 | Coleman 54 Quart Steel Belted Cooler | Medium (54 Quart) | 4 day | [Amazon](https://www.amazon.com/Coleman-3000000112-54-Quart-Steel-Belted-Cooler/dp/B0029UOYCY/) | $160 |
 | Pure Outdoor Emperor 50 Cooler | Medium (50 liter) |5 day | [Monoprice](https://www.monoprice.com/product?p_id=15639)| $150 |
 | Coleman 28 Can Backpack Soft Cooler | Small (28 Can) | 1 day | [Amazon](https://www.amazon.com/Coleman-Backpack-Leak-Proof-Tailgating-Activities/dp/B00J0S019S/) | $35 |
@@ -68,7 +68,7 @@ Lots of extra features are available. The decision comes down to personal prefer
 | Model | Size | Insulation | Link | Price | 
 |:--|:--|:--|:--|:--|
 | Coleman 54 Quart Steel Belted Cooler | Medium (54 Quart) | 4 day | [Amazon](https://www.amazon.com/Coleman-3000000112-54-Quart-Steel-Belted-Cooler/dp/B0029UOYCY/) | $160 |
-| Linux | [https://www.kernel.org/](https://www.kernel.org/) |  |  |  |
-| Ubuntu | [https://ubuntu.com/](https://ubuntu.com/) |  |  |  |
+| Pure Outdoor Emperor 50 Cooler | Medium (50 liter) |5 day | [Monoprice](https://www.monoprice.com/product?p_id=15639)| $150 |
+| Coleman 28 Can Backpack Soft Cooler | Small (28 Can) | 1 day | [Amazon](https://www.amazon.com/Coleman-Backpack-Leak-Proof-Tailgating-Activities/dp/B00J0S019S/) | $35 |
 
 {% include reviewtemplate.html %}
