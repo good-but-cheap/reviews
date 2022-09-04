@@ -110,6 +110,4 @@ Prices can change frequently based on supply and demand, and new releases. Thoug
   - Open "Other Locations" in the file browser, works on many distros -or-
   - Open a terminal and use the command $*df -hx tmpfs*
 
-{% endcapture %}
-
 {% include reviewtemplate.html %}
