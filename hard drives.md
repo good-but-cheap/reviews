@@ -76,7 +76,7 @@ At Good But Cheap, we’re not above using bargain-brands, but hard drives are a
 
 ## Some Good But Cheap Choices
 | Model | Form Factor | Capacity | Link | Price |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | Seagate Barracuda Compute | 3.5” SATA HDD | 4TB | [Amazon](https://www.amazon.com/dp/B07D9C7SQH) | $68 |
 | PNY CS900 | 2.5” SATA SSD | 1TB | [Amazon](https://www.amazon.com/dp/B07Y5VDNT9) | $63 |
 | Intel 660p | M.2 NVMe | 1TB | [Amazon](https://www.amazon.com/dp/B07GCL6BR4) | $70 |
