@@ -17,7 +17,7 @@ related:
 {% capture know %}
 
 ### Form Factor
-Hard drives come in a few different form factors, the first thing you need to know is [which kind you need](#Guide-to-identifying-the-Form-Factor-of-your-drive).
+Hard drives come in a few different form factors, the first thing you need to know is [which kind you need](#idform).
 - The most common today are:
   - 2.5" or 3.5" SATA
   - M.2 NVMe
@@ -40,7 +40,7 @@ SAS
 ### Capacity
 Once you know the type of drive you need, you can start comparing different drives. The main considerations are capacity and speed.
 
-The easiest way to judge the size you need, is to look at your current usage. See the guide below to check the size of your current drive, and how much of it is full. Then add some extra, because we always use more space, not less.
+The easiest way to judge the size you need, is to look at your [current usage](#idusage). See the guide below to check the size of your current drive, and how much of it is full. Then add some extra, because we always use more space, not less.
 
 A note on units:
 GB stands for Gigabyte, which is 1 billion bytes
@@ -80,19 +80,14 @@ At Good But Cheap, we’re not above using bargain-brands, but hard drives are a
 [PCPartPicker](https://pcpartpicker.com/products/internal-hard-drive/#sort=ppgb) has an excellent resource for finding hard drives. Sort the page by price per gigabyte, and then select filters for the type of drive you need.
 Prices can change frequently based on supply and demand, and new releases. Though we list some good options here and update them often, a live tool is the best way to find a cheap drive that meets your needs.
 
+<a name="idform"></a>
 ## Guide to identifying the Form Factor of your drive:
-![Drive Connectors](/img/reviews/hard-drives/connectors.jpg)
-Current Drive Connectors. Left to right: 3.5" SATA, 2.5" SATA, and M.2 NVMe
-
-![Older Drive Connectors](/img/reviews/hard-drives/legacy.jpg)
-Some Legacy Drive Connectors: Left to right: IDE PATA, M.2 SATA
-
 <div class="col-md-12 col-sm-12 portfolio-item">
   <a class="portfolio-link" href="/review/hard-drives">
     <img class="img-fluid" src="/img/reviews/hard-drives/connectors.jpg" alt="Current Drive Connectors">
   </a>
   <div class="portfolio-caption">
-    <h4>Current Drive Connectors. Left to right: 3.5" SATA, 2.5" SATA, and M.2 NVMe</h4>
+    <strong>Current Drive Connectors. Left to right: 3.5" SATA, 2.5" SATA, and M.2 NVMe</strong>
     <p class="text-muted"></p>
   </div>
 </div>
@@ -102,11 +97,12 @@ Some Legacy Drive Connectors: Left to right: IDE PATA, M.2 SATA
     <img class="img-fluid" src="/img/reviews/hard-drives/legacy.jpg" alt="Older Drive Connectors">
   </a>
   <div class="portfolio-caption">
-    <h4>Some Legacy Drive Connectors: Left to right: IDE PATA, M.2 SATA</h4>
+    <strong>Some Legacy Drive Connectors: Left to right: IDE PATA, M.2 SATA</strong>
     <p class="text-muted"></p>
   </div>
 </div>
 
+<a name="idusage"></a>
 ## Guide to checking your current drive use:
 - Windows
   - Open up "This PC" and each drive shows the space used and the total space on the drive.
