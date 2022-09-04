@@ -53,6 +53,7 @@ Lots of extra features are available. The decision comes down to personal prefer
 | Cascading Style Sheets | [https://www.w3.org/TR/CSS/](https://www.w3.org/TR/CSS/) |
 
 ## Some Good But Cheap Choices
+
 | Model | Size | Insulation | Link | Price |
 |:--|:--|:--|:--|:--|
 | Coleman 54 Quart Steel Belted Cooler | Medium (54 Quart) | 4 day | [Amazon](https://www.amazon.com/Coleman-3000000112-54-Quart-Steel-Belted-Cooler/dp/B0029UOYCY/) | $160 |
