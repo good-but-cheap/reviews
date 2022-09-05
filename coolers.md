@@ -1,7 +1,7 @@
 ---
 layout: review
 title: coolers
-picture: /img/reviews/cooler.png
+picture: /img/reviews/coolers/cooler.png
 updated: September 2022
 related:
     - USB-C-Laptop-Docks
@@ -14,6 +14,10 @@ related:
 - Size
 - Insulation
 - Convenience Features (handles, wheels, bottle openers, etc.)
+
+<div class="col-md-12 col-sm-12 portfolio-item">
+    <img class="img-fluid" src="/img/reviews/coolers/ice.jpg" alt="Ice Cubes in a Cooler">
+</div>
 
 ## What you need to know:
 

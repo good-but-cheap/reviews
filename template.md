@@ -13,12 +13,14 @@ related:
 - one
 - two
 
-## What you need to know:
+## Recommendation:
 
-## Some Good But Cheap Choices
 | Model | Form Factor | Capacity | Link | Price |
 |---|---|---|---|---|
 |  |  |  |  |  |
+
+## What you need to know:
+
 
 ## Where to go for more:
 
