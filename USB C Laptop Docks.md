@@ -1,9 +1,71 @@
 ---
 layout: review
 title: USB C Laptop Docks
-picture: #https://upload.wikimedia.org/wikipedia/commons/1/1c/Lewis_Carroll_-_Henry_Holiday_-_Hunting_of_the_Snark_-_Plate_10.jpg
+picture: 
 updated: August 2022
 ---
+
+## Considerations:
+- Power delivery
+- Connectivity
+- Quality
+
+
+
+## Considerations:
+- Power Delivery
+- Connectivity
+
+## Recommendation:
+
+| Model | Power | Connectivity | Link | Price |
+|---|---|---|---|---|
+| Lasuney 12 in 1 USB C Dock | 87W | Almost Everything: HDMI + DP, ethernet, 4 USB ports and SD card slot | [Manufacturer](https://www.lasuney.net/products/11) [Amazon](https://www.amazon.com/Lasuney-Display-Ethernet-Adapter-Compatible/dp/B086QXDXXZ) | $67 |
+
+|Selore |||[Amazon](https://www.amazon.com/Docking-Station-Monitor-Display-Ethernet/dp/B08SJTGYJK) | $55 |
+
+| Anker USB C Hub 341, 7 in 1 | 85W | Basics: HDMI, SD card slot, 2 USB A and 2 USB C ports | [Amazon](https://www.amazon.com/Anker-Upgraded-Delivery-Pixelbook-A83460A2/dp/B07ZVKTP53)| $35 |
+| Anker USB Docking Station 575, 13 in 1 | 85W |  |||
+| High-power options | 100W+ | Check for a dock from your laptop brand | [Dell][HP] | $230+ |
+
+
+## What you need to know:
+
+First, you should know that 
+
+### Power
+
+How much power does a laptop need?
+- 65 Watts is typical
+- 30 Watts for a small MacBook Air
+- 100 Watts or more for a gaming laptop with a dedicated GPU
+- Usually, small laptops can use larger power supplies without issue, and a large laptop will charge slowly from a small power supply though sometimes not fast enough to keep the battery from draining
+
+Hubs aren't completely efficient, so the power output to the laptop will be less than the input power.
+
+
+### Connectivity
+
+There are many hubs available, with a variety of port arrangements. You can usually choose from some of the following:
+- Displays
+  - HDMI
+  - Display Port
+  - VGA
+- USB
+  - Type A
+  - Type C
+- Audio
+- Networking
+- SD Card Slots
+
+### Quality
+
+There are not *great* options for USB Docks. 
+
+
+## Where to go for more:
+
+
 
 {% capture considerations %}
 - Power Delivery
